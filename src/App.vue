@@ -48,7 +48,7 @@
           </div>
         </div>
         <div class="hero-image">
-          <img src="/placeholder.svg?height=400&width=400" alt="Doctor with stethoscope">
+          <img src="" alt="Doctor with stethoscope">
         </div>
       </div>
     </section>
