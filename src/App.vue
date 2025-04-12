@@ -113,7 +113,7 @@
       <div class="container">
         <div class="why-choose-us-content">
           <div class="why-choose-us-image">
-            <img src="/placeholder.svg?height=300&width=300" alt="Doctor in surgery">
+            <img src="" alt="Doctor in surgery">
           </div>
           <div class="why-choose-us-text">
             <h2 class="section-title">Why You Choose Us?</h2>
@@ -140,7 +140,7 @@
           <div class="testimonial-avatars">
             <div class="avatar-group">
               <div class="avatar" v-for="i in 5" :key="i">
-                <img src="/placeholder.svg?height=50&width=50" alt="User avatar">
+                <img src="" alt="User avatar">
               </div>
             </div>
             <p>100+ Reviews</p>
@@ -149,7 +149,7 @@
           <div class="testimonial-card">
             <div class="testimonial-header">
               <div class="user-info">
-                <img src="/placeholder.svg?height=50&width=50" alt="Jane Cooper">
+                <img src="" alt="Jane Cooper">
                 <div>
                   <h4>Jane Cooper</h4>
                   <p>Patient</p>
@@ -179,7 +179,7 @@
             <a href="#" class="learn-more">Learn More <i class="fas fa-arrow-right"></i></a>
           </div>
           <div class="future-health-image">
-            <img src="/placeholder.svg?height=400&width=400" alt="Doctor with patient">
+            <img src="" alt="Doctor with patient">
           </div>
         </div>
       </div>
@@ -222,7 +222,7 @@
         <div class="footer-column">
           <h3>Address</h3>
           <div class="map-container">
-            <img src="/placeholder.svg?height=150&width=200" alt="Map">
+            <img src="" alt="Map">
           </div>
         </div>
       </div>
