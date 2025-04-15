@@ -222,16 +222,16 @@
         <div class="footer-column">
           <h3>Address</h3>
           <div class="map-container">
-            <img src="" alt="Map">
-          </div>
-        </div>
-      </div>
-      <div class="copyright">
-        <p>© 2023 All Right Reserved</p>
-      </div>
-    </footer>
-  </div>
-</template>
+            <img src="" alt="Map"> 
+          </div> 
+        </div> 
+      </div> 
+      <div class="copyright"> 
+        <p>© 2023 All Right Reserved</p> 
+      </div> 
+    </footer> 
+  </div> 
+</template> 
 
 <script setup>
 // Vue 3 Composition API setup
